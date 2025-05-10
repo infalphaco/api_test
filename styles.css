@@ -1,0 +1,30 @@
+body {
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #0d6efd;
+    color: white;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.btn-danger {
+    margin-left: 10px;
+}
+
+#usersTableBody tr {
+    vertical-align: middle;
+}
